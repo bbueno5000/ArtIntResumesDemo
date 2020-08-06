@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "art_int_resumes_demo", "art_int_resumes_demo\art_int_resumes_demo.pyproj", "{C38CF7EA-4AFF-4AAD-82D6-BA31319D28B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38CF7EA-4AFF-4AAD-82D6-BA31319D28B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38CF7EA-4AFF-4AAD-82D6-BA31319D28B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43137642-1EF1-4161-809D-56D62462B19D}
+	EndGlobalSection
+EndGlobal
